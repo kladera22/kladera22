@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **SupportZebra**
 
-- 🌱 I’m currently learning **Back-End Web Development**
+- 🌱 I’m into **Front-End Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kladera22](https://github.com/kladera22)
 
