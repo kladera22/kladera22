@@ -56,7 +56,7 @@
 </p>
 
 <p align="left"> 
-  <a> <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" alt="aws" width="40" height="40"/> </a> 
+  <a> <img src="https://5.imimg.com/data5/SELLER/Default/2021/8/NP/YN/DN/3775979/aws-logo.png" alt="aws" width="50" height="40"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
