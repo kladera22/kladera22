@@ -56,7 +56,7 @@
 </p>
 
 <p align="left"> 
-  <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+  <a> <img src="https://logohistory.net/wp-content/uploads/2023/06/AWS-Logo.jpg" alt="aws" width="40" height="40"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
 </p>
 
