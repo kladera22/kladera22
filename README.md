@@ -41,7 +41,7 @@
 </p>
 
 <p align="left"> 
-  <a> <img src="" alt="rtk" width="40" height="40"/> </a> 
+  <a> <img src="https://github.com/SaulMoro/ngrx-rtk-query" alt="rtk" width="40" height="40"/> </a> 
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
 </p>
 
