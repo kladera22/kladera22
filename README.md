@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/kladera22](https://github.com/kladera22)
 
-- 📫 How to reach me **karaladera@gmail.com**
+- 📫 How to reach me **kara.ladera@supportzebra.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/karaladera/](https://www.linkedin.com/in/karaladera/)
 
