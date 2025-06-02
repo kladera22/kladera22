@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kara Ladera</h1>
-<h3 align="center">Hi there! My name is Kara and I am an IT professional with a love for dogs and the outdoors. In my free time, I enjoy hiking and exploring new places.</h3>
+<h3 align="center">Hi there! My name is Kara, and I am an IT professional who loves dogs and the outdoors. In my free time, I enjoy exploring new places.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kladera22&label=Profile%20views&color=0e75b6&style=flat" alt="kladera22" /> </p>
 
@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/karaladera/](https://www.linkedin.com/in/karaladera/)
 
-- ⚡ Fun fact **I love animals and to travel**
+- ⚡ Fun fact **I love animals and traveling**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
