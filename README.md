@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kara Ladera</h1>
-<h3 align="center">Hi there! My name is Kara, and I am an IT professional who loves dogs and the outdoors. In my free time, I enjoy exploring new places.</h3>
+<h3 align="center">Hi there! My name is Kara. Results-driven IT professional skilled in full-stack and mobile development, Agile project coordination, and delivering scalable, user-focused solutions.
+</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kladera22&label=Profile%20views&color=0e75b6&style=flat" alt="kladera22" /> </p>
 
